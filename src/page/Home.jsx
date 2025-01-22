@@ -44,7 +44,7 @@ const Home = () => {
       <div className="card bg-base-100  shadow-xl">
         <figure>
           <img
-            src={newPic} 
+            src={newPic}  
             alt="Shoes"
           />
           
